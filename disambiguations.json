@@ -1,9 +1,10 @@
 {
-    "date": "2026-09-23T08:42:28.538704+00:00",
+    "date": "2026-09-25T13:42:45.272599+00:00",
     "data": {
         "plain_topics": {
             "+90": 2545532,
             "100": 36252,
+            "1923": 207846,
             "1976": 70113,
             "1984": 32017,
             "1up": 405584,
@@ -515,6 +516,7 @@
             "lohusa": 174602,
             "loki": 56482,
             "lokum": 32850,
+            "lora": 300766,
             "lord eddard stark": 3757689,
             "love story": 44566,
             "lua": 623795,
@@ -811,6 +813,7 @@
             "the choice": 789599,
             "the cure": 32069,
             "the dig": 64838,
+            "the gentlemen": 430874,
             "the ides of march": 280781,
             "the last of us": 3164693,
             "the longest yard": 549150,
@@ -1894,6 +1897,10 @@
             ],
             "dizi": [
                 {
+                    "id": 7501826,
+                    "title": "1923"
+                },
+                {
                     "id": 6811780,
                     "title": "24"
                 },
@@ -2656,6 +2663,10 @@
                 {
                     "id": 6606324,
                     "title": "the choice"
+                },
+                {
+                    "id": 8140915,
+                    "title": "the gentlemen"
                 },
                 {
                     "id": 6396783,
@@ -4258,6 +4269,12 @@
                 {
                     "id": 5928801,
                     "title": "anthem"
+                }
+            ],
+            "iletişim teknolojisi": [
+                {
+                    "id": 8099030,
+                    "title": "lora"
                 }
             ],
             "ilhan berk kitabı": [

@@ -1,0 +1,1910 @@
+{
+    "2026-09-29T22:53:49+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "antrasit"
+        },
+        {
+            "type": "disambiguation",
+            "title": "antrasit (dizi)"
+        },
+        {
+            "type": "plain_topic",
+            "title": "bambaşka biri"
+        },
+        {
+            "type": "disambiguation",
+            "title": "bambaşka biri (dizi)"
+        },
+        {
+            "type": "plain_topic",
+            "title": "berlin"
+        },
+        {
+            "type": "disambiguation",
+            "title": "berlin (dizi)"
+        },
+        {
+            "type": "plain_topic",
+            "title": "zümrüdüanka"
+        },
+        {
+            "type": "disambiguation",
+            "title": "zümrüdüanka (dizi)"
+        },
+        {
+            "type": "disambiguation",
+            "title": "superman (eminem şarkısı)"
+        }
+    ],
+    "2026-09-30T13:39:28+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "baki"
+        },
+        {
+            "type": "disambiguation",
+            "title": "baki (anime)"
+        },
+        {
+            "type": "plain_topic",
+            "title": "fallout"
+        },
+        {
+            "type": "disambiguation",
+            "title": "fallout (dizi)"
+        },
+        {
+            "type": "plain_topic",
+            "title": "sorgu"
+        },
+        {
+            "type": "disambiguation",
+            "title": "sorgu (dizi)"
+        },
+        {
+            "type": "plain_topic",
+            "title": "vali"
+        },
+        {
+            "type": "disambiguation",
+            "title": "vali (film)"
+        }
+    ],
+    "2026-10-01T03:07:01+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "kimler geldi kimler geçti"
+        },
+        {
+            "type": "disambiguation",
+            "title": "kimler geldi kimler geçti (dizi)"
+        },
+        {
+            "type": "plain_topic",
+            "title": "şantaj"
+        },
+        {
+            "type": "disambiguation",
+            "title": "şantaj (dizi)"
+        }
+    ],
+    "2026-10-01T13:10:55+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "rotterdam"
+        },
+        {
+            "type": "disambiguation",
+            "title": "rotterdam (or anywhere)"
+        },
+        {
+            "type": "plain_topic",
+            "title": "terapist"
+        },
+        {
+            "type": "disambiguation",
+            "title": "terapist (dizi)"
+        }
+    ],
+    "2026-10-01T18:37:08+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "emanet",
+            "id": 47766
+        },
+        {
+            "type": "disambiguation",
+            "title": "emanet (dizi)",
+            "id": 6803931
+        }
+    ],
+    "2026-10-02T23:26:39+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "the tourist",
+            "id": 144000
+        },
+        {
+            "type": "disambiguation",
+            "title": "the tourist (dizi)",
+            "id": 7157704
+        }
+    ],
+    "2026-10-03T15:51:32+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "anonim",
+            "id": 37919
+        },
+        {
+            "type": "disambiguation",
+            "title": "anonim (dizi)",
+            "id": 7913981
+        }
+    ],
+    "2026-10-05T09:37:48+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "alef",
+            "id": 175636
+        },
+        {
+            "type": "disambiguation",
+            "title": "alef (dizi)",
+            "id": 6227231
+        },
+        {
+            "type": "plain_topic",
+            "title": "derin mor",
+            "id": 2004405
+        },
+        {
+            "type": "disambiguation",
+            "title": "derin mor (dizi)",
+            "id": 7764480
+        },
+        {
+            "type": "plain_topic",
+            "title": "donma noktası",
+            "id": 182358
+        },
+        {
+            "type": "disambiguation",
+            "title": "donma noktası (film)",
+            "id": 6815203
+        },
+        {
+            "type": "plain_topic",
+            "title": "forever",
+            "id": 32042
+        },
+        {
+            "type": "disambiguation",
+            "title": "forever (dizi)",
+            "id": 6126448
+        },
+        {
+            "type": "plain_topic",
+            "title": "göktaşı",
+            "id": 61122
+        },
+        {
+            "type": "disambiguation",
+            "title": "göktaşı (film)",
+            "id": 5724440
+        },
+        {
+            "type": "plain_topic",
+            "title": "hazine",
+            "id": 62269
+        },
+        {
+            "type": "disambiguation",
+            "title": "hazine (film)",
+            "id": 7458641
+        },
+        {
+            "type": "plain_topic",
+            "title": "hizmetçiler",
+            "id": 208533
+        },
+        {
+            "type": "disambiguation",
+            "title": "hizmetçiler (dizi)",
+            "id": 6350780
+        },
+        {
+            "type": "plain_topic",
+            "title": "karşılaşmalar",
+            "id": 649979
+        },
+        {
+            "type": "disambiguation",
+            "title": "karşılaşmalar (dizi)",
+            "id": 7897273
+        },
+        {
+            "type": "plain_topic",
+            "title": "shooter",
+            "id": 229257
+        },
+        {
+            "type": "disambiguation",
+            "title": "shooter (dizi)",
+            "id": 5783297
+        },
+        {
+            "type": "plain_topic",
+            "title": "takva",
+            "id": 278123
+        },
+        {
+            "type": "disambiguation",
+            "title": "takva (film)",
+            "id": 6875793
+        },
+        {
+            "type": "disambiguation",
+            "title": "jasmine (dizi)",
+            "id": 7968644
+        },
+        {
+            "type": "disambiguation",
+            "title": "g3 (piyade tüfeği)",
+            "id": 148510
+        }
+    ],
+    "2026-10-05T21:41:10+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "soulmates",
+            "id": 317833
+        },
+        {
+            "type": "disambiguation",
+            "title": "soulmates (dizi)",
+            "id": 6737762
+        }
+    ],
+    "2026-10-06T02:31:46+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "bardot",
+            "id": 2386422
+        },
+        {
+            "type": "disambiguation",
+            "title": "bardot (dizi)",
+            "id": 7675963
+        },
+        {
+            "type": "plain_topic",
+            "title": "euphoria",
+            "id": 127981
+        },
+        {
+            "type": "disambiguation",
+            "title": "euphoria (dizi)",
+            "id": 6735883
+        },
+        {
+            "type": "plain_topic",
+            "title": "leopar",
+            "id": 45544
+        },
+        {
+            "type": "disambiguation",
+            "title": "leopar (dizi)",
+            "id": 7949422
+        },
+        {
+            "type": "disambiguation",
+            "title": "eureka (kaliforniya şehri)",
+            "id": 7910323
+        },
+        {
+            "type": "disambiguation",
+            "title": "cocoon (yazılım kütüphanesi)",
+            "id": 7976089
+        }
+    ],
+    "2026-10-06T14:44:54+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "adnan",
+            "id": 345785
+        },
+        {
+            "type": "disambiguation",
+            "title": "adnan (140journos belgeseli)",
+            "id": 7775184
+        },
+        {
+            "type": "plain_topic",
+            "title": "dedublüman",
+            "id": 233207
+        },
+        {
+            "type": "plain_topic",
+            "title": "pigs",
+            "id": 163994
+        },
+        {
+            "type": "disambiguation",
+            "title": "pigs (three different ones)",
+            "id": 364070
+        }
+    ],
+    "2026-10-10T01:48:58+00:00": [
+        {
+            "type": "disambiguation",
+            "title": "şekerpare (ekşi sözlük)",
+            "id": 5587266
+        }
+    ],
+    "2026-10-10T06:23:51+00:00": [
+        {
+            "type": "disambiguation",
+            "title": "crazy (alanis morissette şarkısı)",
+            "id": 6972608
+        },
+        {
+            "type": "disambiguation",
+            "title": "crazy (ornette şarkısı)",
+            "id": 6972609
+        },
+        {
+            "type": "disambiguation",
+            "title": "crazy (sözlük yazarı)",
+            "id": 6972607
+        },
+        {
+            "type": "disambiguation",
+            "title": "air (anime)",
+            "id": 6696690
+        },
+        {
+            "type": "disambiguation",
+            "title": "hypnotize (audioslave şarkısı)",
+            "id": 7641049
+        },
+        {
+            "type": "disambiguation",
+            "title": "do you love me (bendaly family şarkısı)",
+            "id": 6351474
+        },
+        {
+            "type": "disambiguation",
+            "title": "do you love me (damdaki kemancı şarkısı)",
+            "id": 6351478
+        },
+        {
+            "type": "disambiguation",
+            "title": "do you love me (mademoiselle şarkısı)",
+            "id": 6351477
+        },
+        {
+            "type": "disambiguation",
+            "title": "do you love me (ümit besen şarkısı)",
+            "id": 6351469
+        },
+        {
+            "type": "disambiguation",
+            "title": "poison (beyonce şarkısı)",
+            "id": 6945167
+        },
+        {
+            "type": "disambiguation",
+            "title": "sonsuz (candan erçetin şarkısı)",
+            "id": 6553518
+        },
+        {
+            "type": "disambiguation",
+            "title": "aga (chipset)",
+            "id": 6336337
+        },
+        {
+            "type": "disambiguation",
+            "title": "unbelievable (def leppard şarkısı)",
+            "id": 6940132
+        },
+        {
+            "type": "disambiguation",
+            "title": "unbelievable (film)",
+            "id": 6940133
+        },
+        {
+            "type": "disambiguation",
+            "title": "blender (dergi)",
+            "id": 6617496
+        },
+        {
+            "type": "disambiguation",
+            "title": "hayvan (dergi)",
+            "id": 6920346
+        },
+        {
+            "type": "disambiguation",
+            "title": "hayvan (nazan öncel albümü)",
+            "id": 6920351
+        },
+        {
+            "type": "disambiguation",
+            "title": "hayvan (patron şarkısı)",
+            "id": 6920348
+        },
+        {
+            "type": "disambiguation",
+            "title": "opus (dergi)",
+            "id": 8002302
+        },
+        {
+            "type": "disambiguation",
+            "title": "apb (dizi)",
+            "id": 6365977
+        },
+        {
+            "type": "disambiguation",
+            "title": "son çıkış (dizi)",
+            "id": 6670347
+        },
+        {
+            "type": "disambiguation",
+            "title": "uzak (ehl-i keyf şarkısı)",
+            "id": 6637309
+        },
+        {
+            "type": "disambiguation",
+            "title": "silhouette (eloy şarkısı)",
+            "id": 6469312
+        },
+        {
+            "type": "disambiguation",
+            "title": "silhouette (opeth şarkısı)",
+            "id": 6469311
+        },
+        {
+            "type": "disambiguation",
+            "title": "less (erik truffaz şarkısı)",
+            "id": 6785028
+        },
+        {
+            "type": "disambiguation",
+            "title": "less (stil dili)",
+            "id": 6785034
+        },
+        {
+            "type": "disambiguation",
+            "title": "weightless (erika janunger filmi)",
+            "id": 6446443
+        },
+        {
+            "type": "disambiguation",
+            "title": "cocoon (film)",
+            "id": 7976085
+        },
+        {
+            "type": "disambiguation",
+            "title": "cocoon (milky chance şarkısı)",
+            "id": 7976095
+        },
+        {
+            "type": "disambiguation",
+            "title": "cocoon (sözlük yazarı)",
+            "id": 7976092
+        },
+        {
+            "type": "disambiguation",
+            "title": "hide and seek (imogen heap şarkısı)",
+            "id": 7936833
+        },
+        {
+            "type": "disambiguation",
+            "title": "the ides of march (iron maiden şarkısı)",
+            "id": 7795715
+        },
+        {
+            "type": "disambiguation",
+            "title": "the ides of march (myles kennedy)",
+            "id": 7795717
+        },
+        {
+            "type": "disambiguation",
+            "title": "prism (jeff scott albümü)",
+            "id": 7887784
+        },
+        {
+            "type": "disambiguation",
+            "title": "prism (katy perry albümü)",
+            "id": 7887786
+        },
+        {
+            "type": "disambiguation",
+            "title": "prism (müzik grubu)",
+            "id": 7887783
+        },
+        {
+            "type": "disambiguation",
+            "title": "eureka (kahve değirmeni markası)",
+            "id": 7910325
+        },
+        {
+            "type": "disambiguation",
+            "title": "karma (kamelot albümü)",
+            "id": 7631249
+        },
+        {
+            "type": "disambiguation",
+            "title": "teşkilat (kitap)",
+            "id": 6876203
+        },
+        {
+            "type": "disambiguation",
+            "title": "kemer (köy)",
+            "id": 6609130
+        },
+        {
+            "type": "disambiguation",
+            "title": "zed (league of legends karakteri)",
+            "id": 7900352
+        },
+        {
+            "type": "disambiguation",
+            "title": "zed (pulp fiction karakteri)",
+            "id": 7900345
+        },
+        {
+            "type": "disambiguation",
+            "title": "zed (sözlük yazarı)",
+            "id": 7900354
+        },
+        {
+            "type": "disambiguation",
+            "title": "zed (turizm şirketi)",
+            "id": 7900356
+        },
+        {
+            "type": "disambiguation",
+            "title": "zed (turkcell servisi)",
+            "id": 7900347
+        },
+        {
+            "type": "disambiguation",
+            "title": "zed (zardoz karakteri)",
+            "id": 7900349
+        },
+        {
+            "type": "disambiguation",
+            "title": "honey (mariah carey şarkısı)",
+            "id": 7919145
+        },
+        {
+            "type": "disambiguation",
+            "title": "güm güm (moğollar şarkısı)",
+            "id": 7482845
+        },
+        {
+            "type": "disambiguation",
+            "title": "aşk tesadüfleri sever (müslüm gürses albümü)",
+            "id": 8115560
+        },
+        {
+            "type": "disambiguation",
+            "title": "bluesky (müzik grubu)",
+            "id": 7639964
+        },
+        {
+            "type": "disambiguation",
+            "title": "bluesky (sözlük yazarı)",
+            "id": 7639961
+        },
+        {
+            "type": "disambiguation",
+            "title": "finch (müzik grubu)",
+            "id": 8117197
+        },
+        {
+            "type": "disambiguation",
+            "title": "kane (müzik grubu)",
+            "id": 7628444
+        },
+        {
+            "type": "disambiguation",
+            "title": "kane (oyun karakteri)",
+            "id": 7628445
+        },
+        {
+            "type": "disambiguation",
+            "title": "lora (müzik grubu)",
+            "id": 8099031
+        },
+        {
+            "type": "disambiguation",
+            "title": "pardon (müzik grubu)",
+            "id": 6348407
+        },
+        {
+            "type": "disambiguation",
+            "title": "let go (nada surf albümü)",
+            "id": 7646890
+        },
+        {
+            "type": "disambiguation",
+            "title": "let go (sözlük yazarı)",
+            "id": 7646892
+        },
+        {
+            "type": "disambiguation",
+            "title": "closure (oyun)",
+            "id": 6192439
+        },
+        {
+            "type": "disambiguation",
+            "title": "closure (the x-files bölümü)",
+            "id": 6192443
+        },
+        {
+            "type": "disambiguation",
+            "title": "damnation (oyun)",
+            "id": 6605499
+        },
+        {
+            "type": "disambiguation",
+            "title": "rush (oyun taktiği)",
+            "id": 6185221
+        },
+        {
+            "type": "disambiguation",
+            "title": "rush (sözlük yazarı)",
+            "id": 6185210
+        },
+        {
+            "type": "disambiguation",
+            "title": "canon (pachelbel bestesi)",
+            "id": 6805075
+        },
+        {
+            "type": "disambiguation",
+            "title": "obsidian (paradise lost albümü)",
+            "id": 8079697
+        },
+        {
+            "type": "disambiguation",
+            "title": "invincible (pat benatar şarkısı)",
+            "id": 7141717
+        },
+        {
+            "type": "disambiguation",
+            "title": "genesis (rotting christ albümü)",
+            "id": 6325333
+        },
+        {
+            "type": "disambiguation",
+            "title": "ahu (sözlük yazarı)",
+            "id": 7150802
+        },
+        {
+            "type": "disambiguation",
+            "title": "chia (sözlük yazarı)",
+            "id": 6932882
+        },
+        {
+            "type": "disambiguation",
+            "title": "cursed (sözlük yazarı)",
+            "id": 6604543
+        },
+        {
+            "type": "disambiguation",
+            "title": "daha (sözlük yazarı)",
+            "id": 6638902
+        },
+        {
+            "type": "disambiguation",
+            "title": "dark moon (sözlük yazarı)",
+            "id": 6679348
+        },
+        {
+            "type": "disambiguation",
+            "title": "felidae (sözlük yazarı)",
+            "id": 6706660
+        },
+        {
+            "type": "disambiguation",
+            "title": "phoenix rising (sözlük yazarı)",
+            "id": 7878500
+        },
+        {
+            "type": "disambiguation",
+            "title": "rrr (sözlük yazarı)",
+            "id": 7306787
+        },
+        {
+            "type": "disambiguation",
+            "title": "spk (sözlük yazarı)",
+            "id": 6921960
+        },
+        {
+            "type": "disambiguation",
+            "title": "nema (tasarruf teşvik fonu kesintisi)",
+            "id": 6981365
+        },
+        {
+            "type": "disambiguation",
+            "title": "nada (the sandman karakteri)",
+            "id": 7638681
+        },
+        {
+            "type": "disambiguation",
+            "title": "the choice (tv programı)",
+            "id": 6606325
+        },
+        {
+            "type": "disambiguation",
+            "title": "bad (u2 şarkısı)",
+            "id": 6702512
+        },
+        {
+            "type": "disambiguation",
+            "title": "cups (unix yazıcı sistemi)",
+            "id": 6360517
+        },
+        {
+            "type": "disambiguation",
+            "title": "çırak (yarışma programı)",
+            "id": 6457478
+        },
+        {
+            "type": "disambiguation",
+            "title": "tar (yazılım)",
+            "id": 7976993
+        }
+    ],
+    "2026-10-10T06:34:31+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "ilgi manyağı",
+            "id": 205204
+        },
+        {
+            "type": "disambiguation",
+            "title": "fleet",
+            "disambiguation": "banka",
+            "id": 6749285
+        },
+        {
+            "type": "disambiguation",
+            "title": "anytime",
+            "disambiguation": "brian mcknight şarkısı",
+            "id": 6577681
+        },
+        {
+            "type": "disambiguation",
+            "title": "obsidian",
+            "disambiguation": "müzik grubu",
+            "id": 8079698
+        }
+    ],
+    "2026-10-10T06:58:02+00:00": [
+        {
+            "type": "disambiguation",
+            "title": "stl",
+            "disambiguation": "3d dosya formatı",
+            "id": 6182078
+        },
+        {
+            "type": "disambiguation",
+            "title": "paradigm shift",
+            "disambiguation": "anathema albümü",
+            "id": 6612935
+        },
+        {
+            "type": "disambiguation",
+            "title": "cocoon",
+            "disambiguation": "björk şarkısı",
+            "id": 7976090
+        },
+        {
+            "type": "disambiguation",
+            "title": "masumiyet",
+            "disambiguation": "dizi",
+            "id": 6865196
+        },
+        {
+            "type": "disambiguation",
+            "title": "kapı",
+            "disambiguation": "film",
+            "id": 6901319
+        },
+        {
+            "type": "disambiguation",
+            "title": "rush",
+            "disambiguation": "jay jay johanson şarkısı",
+            "id": 6185214
+        },
+        {
+            "type": "disambiguation",
+            "title": "honey",
+            "disambiguation": "moby şarkısı",
+            "id": 7919143
+        },
+        {
+            "type": "disambiguation",
+            "title": "maximus decimus meridius",
+            "disambiguation": "sözlük yazarı",
+            "id": 5961034
+        }
+    ],
+    "2026-10-10T07:04:07+00:00": [
+        {
+            "type": "disambiguation",
+            "title": "bir",
+            "disambiguation": "derin esmer albümü",
+            "id": 6489896
+        },
+        {
+            "type": "disambiguation",
+            "title": "coppa",
+            "disambiguation": "restoran",
+            "id": 7465097
+        },
+        {
+            "type": "disambiguation",
+            "title": "yaren",
+            "disambiguation": "restoran",
+            "id": 6600908
+        }
+    ],
+    "2026-10-10T07:07:26+00:00": [
+        {
+            "type": "disambiguation",
+            "title": "sadakatsiz",
+            "disambiguation": "sözlük yazarı",
+            "id": 6695078
+        }
+    ],
+    "2026-10-10T13:06:20+00:00": [
+        {
+            "type": "disambiguation",
+            "title": "cocoon",
+            "disambiguation": "ajans",
+            "id": 7976088
+        },
+        {
+            "type": "disambiguation",
+            "title": "mourn",
+            "disambiguation": "apoptygma berzerk şarkısı",
+            "id": 6882580
+        },
+        {
+            "type": "disambiguation",
+            "title": "less",
+            "disambiguation": "ben harper şarkısı",
+            "id": 6785025
+        },
+        {
+            "type": "disambiguation",
+            "title": "weightless",
+            "disambiguation": "city and colour şarkısı",
+            "id": 6446458
+        },
+        {
+            "type": "disambiguation",
+            "title": "rush",
+            "disambiguation": "dizi",
+            "id": 6185223
+        },
+        {
+            "type": "disambiguation",
+            "title": "catch the wind",
+            "disambiguation": "donovan albümü",
+            "id": 6311263
+        },
+        {
+            "type": "disambiguation",
+            "title": "another life",
+            "disambiguation": "film",
+            "id": 6125770
+        },
+        {
+            "type": "disambiguation",
+            "title": "framework",
+            "disambiguation": "film",
+            "id": 6983916
+        },
+        {
+            "type": "disambiguation",
+            "title": "honey",
+            "disambiguation": "film",
+            "id": 7919148
+        },
+        {
+            "type": "disambiguation",
+            "title": "honey",
+            "disambiguation": "parfüm",
+            "id": 7919146
+        },
+        {
+            "type": "disambiguation",
+            "title": "honey",
+            "disambiguation": "robyn albümü ve şarkısı",
+            "id": 7919147
+        },
+        {
+            "type": "disambiguation",
+            "title": "honey",
+            "disambiguation": "tosca şarkısı",
+            "id": 7919144
+        },
+        {
+            "type": "disambiguation",
+            "title": "ragnarok",
+            "disambiguation": "film",
+            "id": 6939042
+        },
+        {
+            "type": "disambiguation",
+            "title": "uzak",
+            "disambiguation": "film",
+            "id": 6637265
+        },
+        {
+            "type": "disambiguation",
+            "title": "poison",
+            "disambiguation": "jay jay johanson şarkısı",
+            "id": 6945164
+        },
+        {
+            "type": "disambiguation",
+            "title": "poison",
+            "disambiguation": "nicole scherzinger şarkısı",
+            "id": 6945166
+        },
+        {
+            "type": "disambiguation",
+            "title": "do you love me",
+            "disambiguation": "kiss şarkısı",
+            "id": 6350000
+        },
+        {
+            "type": "disambiguation",
+            "title": "do you love me",
+            "disambiguation": "nirvana şarkısı",
+            "id": 6351476
+        },
+        {
+            "type": "disambiguation",
+            "title": "proton",
+            "disambiguation": "kopyalama yazılımı",
+            "id": 6705629
+        },
+        {
+            "type": "disambiguation",
+            "title": "remembrance day",
+            "disambiguation": "mark knopfler şarkısı",
+            "id": 6649701
+        },
+        {
+            "type": "disambiguation",
+            "title": "elite",
+            "disambiguation": "mertebe",
+            "id": 6186406
+        },
+        {
+            "type": "disambiguation",
+            "title": "yaren",
+            "disambiguation": "meyhane",
+            "id": 6600907
+        },
+        {
+            "type": "disambiguation",
+            "title": "the ides of march",
+            "disambiguation": "müzik grubu",
+            "id": 7795716
+        },
+        {
+            "type": "disambiguation",
+            "title": "murat çelik",
+            "disambiguation": "müzisyen",
+            "id": 5951245
+        },
+        {
+            "type": "disambiguation",
+            "title": "parla",
+            "disambiguation": "nihan şarkısı",
+            "id": 7736105
+        },
+        {
+            "type": "disambiguation",
+            "title": "şımarık",
+            "disambiguation": "nilüfer örer şarkısı",
+            "id": 7995678
+        },
+        {
+            "type": "disambiguation",
+            "title": "kane",
+            "disambiguation": "oyun",
+            "id": 7628443
+        },
+        {
+            "type": "disambiguation",
+            "title": "kemer",
+            "disambiguation": "oyun",
+            "id": 6609162
+        },
+        {
+            "type": "disambiguation",
+            "title": "python",
+            "disambiguation": "parfüm",
+            "id": 6303623
+        },
+        {
+            "type": "disambiguation",
+            "title": "aga",
+            "disambiguation": "radyo markası",
+            "id": 6336341
+        },
+        {
+            "type": "disambiguation",
+            "title": "aga",
+            "disambiguation": "sözlük yazarı",
+            "id": 6336342
+        },
+        {
+            "type": "disambiguation",
+            "title": "lychee",
+            "disambiguation": "restoran",
+            "id": 7903917
+        },
+        {
+            "type": "disambiguation",
+            "title": "priscilla",
+            "disambiguation": "scorpions şarkısı",
+            "id": 7938672
+        },
+        {
+            "type": "disambiguation",
+            "title": "closure",
+            "disambiguation": "shun şarkısı",
+            "id": 6192442
+        },
+        {
+            "type": "disambiguation",
+            "title": "nada",
+            "disambiguation": "starcraft oyuncusu",
+            "id": 7638692
+        },
+        {
+            "type": "disambiguation",
+            "title": "archer",
+            "disambiguation": "sözlük yazarı",
+            "id": 7097700
+        },
+        {
+            "type": "disambiguation",
+            "title": "sentimental",
+            "disambiguation": "tanita tikaram albümü",
+            "id": 6453919
+        },
+        {
+            "type": "disambiguation",
+            "title": "sirenler",
+            "disambiguation": "tnk şarkısı",
+            "id": 7147231
+        },
+        {
+            "type": "disambiguation",
+            "title": "crazy",
+            "disambiguation": "tori amos şarkısı",
+            "id": 6972606
+        },
+        {
+            "type": "disambiguation",
+            "title": "crazy",
+            "disambiguation": "willie nelson şarkısı",
+            "id": 6972612
+        },
+        {
+            "type": "disambiguation",
+            "title": "cups",
+            "disambiguation": "underworld şarkısı",
+            "id": 6360510
+        }
+    ],
+    "2026-10-11T04:06:06+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "dune",
+            "id": 31946
+        },
+        {
+            "type": "plain_topic",
+            "title": "kızılay",
+            "id": 37098
+        },
+        {
+            "type": "plain_topic",
+            "title": "mısır",
+            "id": 37135
+        },
+        {
+            "type": "plain_topic",
+            "title": "ocean",
+            "id": 32184
+        },
+        {
+            "type": "plain_topic",
+            "title": "şubat",
+            "id": 39779
+        },
+        {
+            "type": "disambiguation",
+            "title": "rush",
+            "disambiguation": "1991 filmi",
+            "id": 6185196
+        },
+        {
+            "type": "disambiguation",
+            "title": "sonder",
+            "disambiguation": "albüm",
+            "id": 7449383
+        },
+        {
+            "type": "disambiguation",
+            "title": "weightless",
+            "disambiguation": "albüm",
+            "id": 6446446
+        },
+        {
+            "type": "disambiguation",
+            "title": "who",
+            "disambiguation": "albüm",
+            "id": 6583017
+        },
+        {
+            "type": "disambiguation",
+            "title": "closure",
+            "disambiguation": "divine heresy şarkısı",
+            "id": 6192446
+        },
+        {
+            "type": "disambiguation",
+            "title": "what we do in the shadows",
+            "disambiguation": "film",
+            "id": 6817847
+        },
+        {
+            "type": "disambiguation",
+            "title": "selam",
+            "disambiguation": "fuchs albümü",
+            "id": 7028680
+        },
+        {
+            "type": "disambiguation",
+            "title": "papyrus",
+            "disambiguation": "oyun firması",
+            "id": 7267174
+        },
+        {
+            "type": "disambiguation",
+            "title": "cafe de flore",
+            "disambiguation": "radyo programı",
+            "id": 6739208
+        },
+        {
+            "type": "disambiguation",
+            "title": "damnation",
+            "disambiguation": "sözlük yazarı",
+            "id": 6605500
+        },
+        {
+            "type": "disambiguation",
+            "title": "proton",
+            "disambiguation": "sözlük yazarı",
+            "id": 6705634
+        }
+    ],
+    "2026-10-11T11:36:25+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "tecahül-i arif",
+            "id": 1792652
+        },
+        {
+            "type": "disambiguation",
+            "title": "tecahül-i arif",
+            "disambiguation": "kısa film",
+            "id": 8145825
+        }
+    ],
+    "2026-10-15T18:32:11+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "adra",
+            "id": 658040
+        },
+        {
+            "type": "disambiguation",
+            "title": "adra",
+            "disambiguation": "sözlük yazarı",
+            "id": 6981214
+        },
+        {
+            "type": "plain_topic",
+            "title": "beverly hills teens",
+            "id": 123122
+        },
+        {
+            "type": "disambiguation",
+            "title": "beverly hills teens",
+            "disambiguation": "sözlük yazarı",
+            "id": 6992588
+        },
+        {
+            "type": "plain_topic",
+            "title": "echo",
+            "id": 37753
+        },
+        {
+            "type": "disambiguation",
+            "title": "echo",
+            "disambiguation": "sözlük yazarı",
+            "id": 6761112
+        },
+        {
+            "type": "plain_topic",
+            "title": "helpless",
+            "id": 234129
+        },
+        {
+            "type": "disambiguation",
+            "title": "helpless",
+            "disambiguation": "diamond head şarkısı",
+            "id": 7878010
+        },
+        {
+            "type": "plain_topic",
+            "title": "mla",
+            "id": 236227
+        },
+        {
+            "type": "disambiguation",
+            "title": "mla",
+            "disambiguation": "yazım formatı",
+            "id": 7880088
+        },
+        {
+            "type": "plain_topic",
+            "title": "ogre",
+            "id": 104888
+        },
+        {
+            "type": "disambiguation",
+            "title": "ogre",
+            "disambiguation": "tekken karakteri",
+            "id": 7504992
+        },
+        {
+            "type": "plain_topic",
+            "title": "özel ders",
+            "id": 212948
+        },
+        {
+            "type": "disambiguation",
+            "title": "özel ders",
+            "disambiguation": "film",
+            "id": 8128073
+        },
+        {
+            "type": "plain_topic",
+            "title": "pisces",
+            "id": 76304
+        },
+        {
+            "type": "disambiguation",
+            "title": "pisces",
+            "disambiguation": "jinjer şarkısı",
+            "id": 8045039
+        },
+        {
+            "type": "plain_topic",
+            "title": "veba",
+            "id": 33992
+        },
+        {
+            "type": "disambiguation",
+            "title": "veba",
+            "disambiguation": "140journos videosu",
+            "id": 7016430
+        }
+    ],
+    "2026-10-16T17:19:30+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "a kind of magic",
+            "id": 121380
+        },
+        {
+            "type": "disambiguation",
+            "title": "a kind of magic",
+            "disambiguation": "grup",
+            "id": 7124296
+        },
+        {
+            "type": "plain_topic",
+            "title": "aile mahkemesi",
+            "id": 1619389
+        },
+        {
+            "type": "disambiguation",
+            "title": "aile mahkemesi",
+            "disambiguation": "tv programı",
+            "id": 7471697
+        },
+        {
+            "type": "plain_topic",
+            "title": "cashback",
+            "id": 1098255
+        },
+        {
+            "type": "disambiguation",
+            "title": "cashback",
+            "disambiguation": "film",
+            "id": 8137654
+        },
+        {
+            "type": "plain_topic",
+            "title": "chaser",
+            "id": 631822
+        },
+        {
+            "type": "disambiguation",
+            "title": "chaser",
+            "disambiguation": "sözlük yazarı",
+            "id": 7872666
+        },
+        {
+            "type": "plain_topic",
+            "title": "e-sim",
+            "id": 3040823
+        },
+        {
+            "type": "disambiguation",
+            "title": "e-sim",
+            "disambiguation": "oyun",
+            "id": 7254031
+        },
+        {
+            "type": "plain_topic",
+            "title": "genx",
+            "id": 220351
+        },
+        {
+            "type": "disambiguation",
+            "title": "genx",
+            "disambiguation": "sözlük yazarı",
+            "id": 7983592
+        },
+        {
+            "type": "plain_topic",
+            "title": "london",
+            "id": 32791
+        },
+        {
+            "type": "disambiguation",
+            "title": "london",
+            "disambiguation": "roger hodgson şarkısı",
+            "id": 7903481
+        },
+        {
+            "type": "plain_topic",
+            "title": "nox",
+            "id": 62220
+        },
+        {
+            "type": "disambiguation",
+            "title": "nox",
+            "disambiguation": "emülatör",
+            "id": 8059531
+        },
+        {
+            "type": "plain_topic",
+            "title": "remedy",
+            "id": 63857
+        },
+        {
+            "type": "disambiguation",
+            "title": "remedy",
+            "disambiguation": "sözlük yazarı",
+            "id": 7881567
+        },
+        {
+            "type": "plain_topic",
+            "title": "solo",
+            "id": 42464
+        },
+        {
+            "type": "disambiguation",
+            "title": "solo",
+            "disambiguation": "hüsnü arkan albümü",
+            "id": 6810947
+        },
+        {
+            "type": "plain_topic",
+            "title": "zıvana",
+            "id": 33635
+        },
+        {
+            "type": "disambiguation",
+            "title": "zıvana",
+            "disambiguation": "grup",
+            "id": 7822321
+        }
+    ],
+    "2026-10-17T07:03:59+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "1099",
+            "id": 1860849
+        },
+        {
+            "type": "disambiguation",
+            "title": "1099",
+            "disambiguation": "vergi formu",
+            "id": 7534992
+        },
+        {
+            "type": "plain_topic",
+            "title": "cord",
+            "id": 357367
+        },
+        {
+            "type": "disambiguation",
+            "title": "cord",
+            "disambiguation": "film",
+            "id": 7141550
+        },
+        {
+            "type": "plain_topic",
+            "title": "gwei",
+            "id": 1285270
+        },
+        {
+            "type": "disambiguation",
+            "title": "gwei",
+            "disambiguation": "dergi",
+            "id": 7239044
+        },
+        {
+            "type": "plain_topic",
+            "title": "thumb",
+            "id": 146813
+        },
+        {
+            "type": "disambiguation",
+            "title": "thumb",
+            "disambiguation": "müzik grubu",
+            "id": 7048177
+        }
+    ],
+    "2026-10-17T11:27:58+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "final days",
+            "id": 1020153
+        },
+        {
+            "type": "disambiguation",
+            "title": "final days",
+            "disambiguation": "film",
+            "id": 6677343
+        },
+        {
+            "type": "plain_topic",
+            "title": "öğrenci indirimi",
+            "id": 73066
+        },
+        {
+            "type": "disambiguation",
+            "title": "öğrenci indirimi",
+            "disambiguation": "albüm",
+            "id": 7625587
+        },
+        {
+            "type": "plain_topic",
+            "title": "tuya",
+            "id": 132284
+        },
+        {
+            "type": "disambiguation",
+            "title": "tuya",
+            "disambiguation": "sözlük yazarı",
+            "id": 7197024
+        }
+    ],
+    "2026-10-17T16:14:09+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "melchior",
+            "id": 536533
+        },
+        {
+            "type": "disambiguation",
+            "title": "melchior",
+            "disambiguation": "yazılım",
+            "id": 6758833
+        },
+        {
+            "type": "plain_topic",
+            "title": "variant",
+            "id": 48909
+        },
+        {
+            "type": "disambiguation",
+            "title": "variant",
+            "disambiguation": "veri tipi",
+            "id": 6772298
+        },
+        {
+            "type": "disambiguation",
+            "title": "nox",
+            "disambiguation": "oyun",
+            "id": 8059530
+        }
+    ],
+    "2026-10-18T11:40:58+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "algonkin",
+            "id": 441424
+        },
+        {
+            "type": "disambiguation",
+            "title": "algonkin",
+            "disambiguation": "sözlük yazarı",
+            "id": 8098466
+        },
+        {
+            "type": "plain_topic",
+            "title": "mahfil",
+            "id": 173572
+        },
+        {
+            "type": "disambiguation",
+            "title": "mahfil",
+            "disambiguation": "dergi",
+            "id": 8085405
+        },
+        {
+            "type": "plain_topic",
+            "title": "pele",
+            "id": 49590
+        },
+        {
+            "type": "disambiguation",
+            "title": "pele",
+            "disambiguation": "tanrıça",
+            "id": 8082310
+        },
+        {
+            "type": "plain_topic",
+            "title": "tell me a story",
+            "id": 5832479
+        },
+        {
+            "type": "disambiguation",
+            "title": "tell me a story",
+            "disambiguation": "dizi",
+            "id": 6770378
+        },
+        {
+            "type": "disambiguation",
+            "title": "echo",
+            "disambiguation": "joe satriani parçası",
+            "id": 6761110
+        }
+    ],
+    "2026-10-18T22:26:40+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "cholula",
+            "id": 1407216
+        },
+        {
+            "type": "disambiguation",
+            "title": "cholula",
+            "disambiguation": "şehir",
+            "id": 7387122
+        }
+    ],
+    "2026-10-19T16:01:01+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "carice",
+            "id": 2990987
+        },
+        {
+            "type": "disambiguation",
+            "title": "carice",
+            "disambiguation": "sözlük yazarı",
+            "id": 8042829
+        }
+    ],
+    "2026-10-19T19:05:48+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "istanbul",
+            "id": 32102
+        },
+        {
+            "type": "disambiguation",
+            "title": "istanbul",
+            "disambiguation": "ilhan berk şiiri",
+            "id": 8082057
+        },
+        {
+            "type": "plain_topic",
+            "title": "khronos",
+            "id": 106387
+        },
+        {
+            "type": "disambiguation",
+            "title": "khronos",
+            "disambiguation": "rotting christ albümü",
+            "id": 7757334
+        }
+    ],
+    "2026-10-20T23:47:45+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "amos",
+            "id": 64772
+        },
+        {
+            "type": "disambiguation",
+            "title": "amos",
+            "disambiguation": "programlama dili",
+            "id": 7920325
+        },
+        {
+            "type": "plain_topic",
+            "title": "bosnia herzegovina",
+            "id": 1776812
+        },
+        {
+            "type": "disambiguation",
+            "title": "bosnia herzegovina",
+            "disambiguation": "sözlük yazarı",
+            "id": 6695504
+        },
+        {
+            "type": "plain_topic",
+            "title": "deli aşk",
+            "id": 462145
+        },
+        {
+            "type": "disambiguation",
+            "title": "deli aşk",
+            "disambiguation": "roman",
+            "id": 6358520
+        },
+        {
+            "type": "plain_topic",
+            "title": "half",
+            "id": 363069
+        },
+        {
+            "type": "disambiguation",
+            "title": "half",
+            "disambiguation": "soundgarden şarkısı",
+            "id": 6115119
+        },
+        {
+            "type": "plain_topic",
+            "title": "isolate",
+            "id": 710096
+        },
+        {
+            "type": "disambiguation",
+            "title": "isolate",
+            "disambiguation": "paradise lost şarkısı",
+            "id": 6162454
+        },
+        {
+            "type": "plain_topic",
+            "title": "montenegro",
+            "id": 153412
+        },
+        {
+            "type": "disambiguation",
+            "title": "montenegro",
+            "disambiguation": "film",
+            "id": 7466213
+        },
+        {
+            "type": "disambiguation",
+            "title": "echo",
+            "disambiguation": "incubus şarkısı",
+            "id": 6761117
+        }
+    ],
+    "2026-10-21T14:04:19+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "bukan",
+            "id": 587085
+        },
+        {
+            "type": "disambiguation",
+            "title": "bukan",
+            "disambiguation": "sözlük yazarı",
+            "id": 8031781
+        },
+        {
+            "type": "plain_topic",
+            "title": "fenobarbital",
+            "id": 385121
+        },
+        {
+            "type": "disambiguation",
+            "title": "fenobarbital",
+            "disambiguation": "sözlük yazarı",
+            "id": 7531743
+        }
+    ],
+    "2026-10-22T21:41:12+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "eap",
+            "id": 397714
+        },
+        {
+            "type": "disambiguation",
+            "title": "eap",
+            "disambiguation": "sözlük yazarı",
+            "id": 7789283
+        },
+        {
+            "type": "plain_topic",
+            "title": "ens",
+            "id": 582933
+        },
+        {
+            "type": "disambiguation",
+            "title": "ens",
+            "disambiguation": "sözlük yazarı",
+            "id": 7021249
+        },
+        {
+            "type": "plain_topic",
+            "title": "joi",
+            "id": 67750
+        },
+        {
+            "type": "disambiguation",
+            "title": "joi",
+            "disambiguation": "müzik grubu",
+            "id": 6763440
+        },
+        {
+            "type": "plain_topic",
+            "title": "mckinley",
+            "id": 143705
+        },
+        {
+            "type": "disambiguation",
+            "title": "mckinley",
+            "disambiguation": "spor malzemeleri markası",
+            "id": 7964190
+        },
+        {
+            "type": "plain_topic",
+            "title": "netizen",
+            "id": 256575
+        },
+        {
+            "type": "disambiguation",
+            "title": "netizen",
+            "disambiguation": "sözlük yazarı",
+            "id": 6902399
+        },
+        {
+            "type": "plain_topic",
+            "title": "ominous",
+            "id": 424127
+        },
+        {
+            "type": "disambiguation",
+            "title": "ominous",
+            "disambiguation": "albüm",
+            "id": 7038519
+        },
+        {
+            "type": "plain_topic",
+            "title": "spindrift",
+            "id": 1685109
+        },
+        {
+            "type": "disambiguation",
+            "title": "spindrift",
+            "disambiguation": "müzik grubu",
+            "id": 7032457
+        },
+        {
+            "type": "plain_topic",
+            "title": "wasted time",
+            "id": 200972
+        },
+        {
+            "type": "disambiguation",
+            "title": "wasted time",
+            "disambiguation": "kings of leon şarkısı",
+            "id": 7531520
+        },
+        {
+            "type": "disambiguation",
+            "title": "bosnia herzegovina",
+            "disambiguation": "şarkı",
+            "id": 6695505
+        }
+    ],
+    "2026-10-23T01:51:57+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "fsn",
+            "id": 898517
+        },
+        {
+            "type": "disambiguation",
+            "title": "fsn",
+            "disambiguation": "sözlük yazarı",
+            "id": 8003082
+        }
+    ],
+    "2026-10-23T21:07:06+00:00": [
+        {
+            "type": "plain_topic",
+            "title": "lcs",
+            "id": 461593
+        },
+        {
+            "type": "disambiguation",
+            "title": "lcs",
+            "disambiguation": "problem",
+            "id": 7987470
+        },
+        {
+            "type": "plain_topic",
+            "title": "minder",
+            "id": 54253
+        },
+        {
+            "type": "disambiguation",
+            "title": "minder",
+            "disambiguation": "restoran",
+            "id": 6135042
+        },
+        {
+            "type": "plain_topic",
+            "title": "sleight of hand",
+            "id": 308534
+        },
+        {
+            "type": "disambiguation",
+            "title": "sleight of hand",
+            "disambiguation": "pearl jam şarkısı",
+            "id": 6593136
+        },
+        {
+            "type": "plain_topic",
+            "title": "the edge",
+            "id": 64562
+        },
+        {
+            "type": "disambiguation",
+            "title": "the edge",
+            "disambiguation": "quake 2 haritası",
+            "id": 7023778
+        }
+    ]
+}
